@@ -1,0 +1,174 @@
+*{
+    margin: auto;
+}
+.background{
+    background-color: black;
+    color: white;
+}
+.logo{
+  padding: 0%;
+}
+ a:hover {
+  background-color:  #d586a4;
+
+}
+ 
+
+ .image {
+  padding: 5px;
+}
+
+ 
+
+ .text {
+  color: black;
+  font-size: 16px;
+  padding: 16px 32px;
+} 
+
+.row1 {
+   display: flex;
+}
+
+ .row2 {
+  display: flex;
+}
+ .row3{
+   display: flex;
+ }
+ .row4{
+  display: flex;
+}
+
+.varieties{
+padding-top: 50px;
+padding-bottom: 50px;
+}
+
+h4{
+  font-style: oblique;
+  letter-spacing: 5px ;
+}
+
+.footer{
+  padding-left: 105px;
+  background-color:#000000d5;
+  color: white;
+}
+.control{
+  padding-top: 50px;
+}
+.subscribe{
+
+  padding-bottom: 50px;
+  padding-top: 50px ;
+}
+h2{
+  font-style: oblique;
+}
+.icons{
+  float: right;
+}
+h2{
+  padding-left: 100px;
+  color: #F06292
+}
+
+  .image{
+    padding-right: 100px;
+    padding-top: 50px;
+  }
+.main para{
+  display: inline-block;
+  
+}
+  .about pic{
+    border: 5px solid #555;
+  }
+  
+
+/* .pic1{
+  padding-left: 60px;
+  padding-top: 50px;
+}
+.header1{
+  padding-right: 40px;
+}
+.header2{
+  padding-right: 40px;
+}
+.header3{
+  padding-right: 40px;
+} */
+
+
+
+
+
+/* contact.html */
+
+
+.submit{
+  padding-bottom: 20px;
+  color: #d586a4 !important;
+}
+
+
+/* about.html */
+
+.container {
+  position: relative;
+  font-family: Arial;
+}
+
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color:white;
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 15px;
+  padding-bottom: 100px;
+  padding-top: 30px;
+}
+.images{
+    border: 15px solid;
+
+}
+
+/* men.html */
+
+h1{
+  font-style: italic;
+  letter-spacing: 5px ;
+}
+ .card{
+
+  margin-top: 50px;
+  margin-left: 100px;
+
+  } 
+.maincard{
+  padding-top: 120px;
+} 
+
+
+ .card-title {
+  letter-spacing: 5px !important;
+  font-size: 35px;
+}
+.cards{
+  padding-left: 100px;
+}
+.card-t{
+padding-left: 50px;
+padding-bottom: 100px;
+}
+.card-b{
+ padding-bottom: 150px;
+}
+.card-img{
+ padding-bottom: 50px;
+}
